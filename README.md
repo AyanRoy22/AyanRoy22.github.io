@@ -4,8 +4,8 @@ Hello! My name is Ayan Roy. I am a data science enthusiast from India. I did my 
 
 Here are some of the projects I have made
 
-# Room_Occupancy_Detection
-This project involves analyzing sensor data from various sensors placed in a room. These sensors include motion detectors, temperature sensors, light sensors, and even sound sensors. The objective is to develop a machine-learning model that can classify whether the room is currently occupied or unoccupied based on the sensor readings. This is a binary classification task where the model predicts one of two classes: "occupied" or "unoccupied."
+## 1. Room Occupancy Detection [Repo Link](https://github.com/AyanRoy22/Room_Occupancy_Detection)
+This project involves analyzing sensor data from various sensors placed in a room. These sensors include motion detectors, temperature sensors, light sensors, and even sound sensors. The objective is to develop a machine-learning model that can classify whether the room is currently occupied or unoccupied based on the sensor readings. 
 
 ## Data Description
 The data is of secondary source and is taken from
