@@ -7,6 +7,9 @@ Here are some of the projects I have made
 ## 1. Room Occupancy Detection [Repo Link](https://github.com/AyanRoy22/Room_Occupancy_Detection)
 This project involves analyzing sensor data from various sensors placed in a room. The objective is to develop a machine-learning model that can classify whether the room is currently occupied or unoccupied based on the sensor readings. 
 
+- Tools used: Python <br>
+- Category: Classification <br>
+
 ### Business Objectives
 1. **Energy Efficiency:** Predicting room occupancy can be essential for optimizing energy consumption in buildings. By knowing when a room is unoccupied, heating, cooling, and lighting systems can be adjusted or turned off, leading to significant energy savings.
 2. **Security and Safety:** Knowing if a room is occupied is important for security and safety purposes. In a smart home or office environment, this information can be used to trigger security systems or alerts when unauthorized access is detected.
