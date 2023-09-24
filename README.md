@@ -16,8 +16,8 @@ This project involves analyzing sensor data from various sensors placed in a roo
 3. **Resource Optimization:** Predicting occupancy helps in resource allocation. For example, in a hotel, the cleaning staff can be directed to rooms that are vacant, reducing labor costs and minimizing disturbance to guests.
 4. **Occupancy Insights:** Beyond energy efficiency and security, occupancy data can provide valuable insights into space utilization. Organizations can use this information to optimize office layouts or to plan for future space requirements.
 
-Models used: Logistic Regression, Decision Tree Classifier, Random Forest Classifier and Ada Boost Classifier <br>
-**Best Score:** 98.02% accuracy using Random Forest Classifier <br>
+- **Models used:** Logistic Regression, Decision Tree Classifier, Random Forest Classifier and Ada Boost Classifier <br>
+- **Best Score:** 98.02% accuracy using Random Forest Classifier <br>
 
 <hr>
 
@@ -33,8 +33,10 @@ The goal of this project is to develop a machine learning model that can accurat
 3. Retain existing customers and improve their loyalty. <br>
 4. Efficiently manage seat inventory <br>
 
-Models used: Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting <br>
-**Best Score:** 0.935 (1-RMSLE), taking RMSLE as the evaluation metric is achieved using Random Forest Regressor. <br>
+- **Models used:** Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting <br>
+- **Best Score:** A score of 0.935 (1-RMSLE), taking RMSLE as the evaluation metric, is achieved using Random Forest Regressor. <br>
 
 <hr>
+
+## 3. Customer Segementation using RFM Analysis
 
