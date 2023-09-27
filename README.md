@@ -1,9 +1,9 @@
 # Portfolio
 
 Hello! My name is Ayan Roy. I am a data science enthusiast from India. I graduated in electronics and communication engineering and am currently pursuing my postgraduate diploma in data science from Praxis Business School. During college, I was part of my institute's entrepreneurship and development cell where I got to interact with several business and industry leaders, which helped build my business acumen. I was also a part of the robotics club and developed several projects on IoT including a Sound Pollution Monitoring System. During my third year, I was an internship trainee at Ardent Computech where I developed a machine learning project on Image Processing and Analysis. 
-My academic interests include financial modelling, marketing, data analysis.
+My academic interests include market research, product development, financial modelling, and data analysis.
 
-Here are some of the projects I have made. You can check more of them on my [Github Page!](https://github.com/AyanRoy22)
+Here are some of the Machine learning projects I have made. You can check more of them on my [Github Page!](https://github.com/AyanRoy22)
 
 ## 1. Room Occupancy Detection [Repo Link](https://github.com/AyanRoy22/Room_Occupancy_Detection)
 This project involves analyzing sensor data from various sensors placed in a room. The objective is to develop a machine-learning model that can classify whether the room is currently occupied or unoccupied based on the sensor readings. 
