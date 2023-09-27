@@ -1,6 +1,7 @@
-# Data Science Portfolio
+# Portfolio
 
-Hello! My name is Ayan Roy. I am a data science enthusiast from India. I graduated in electronics and communication engineering and am currently pursuing my postgraduate diploma in data science from Praxis Business School. During my college days, I was part of my institute's entrepreneurship and development cell and robotics club.  
+Hello! My name is Ayan Roy. I am a data science enthusiast from India. I graduated in electronics and communication engineering and am currently pursuing my postgraduate diploma in data science from Praxis Business School. During college, I was part of my institute's entrepreneurship and development cell where I got to interact with several business and industry leaders, which helped build my business acumen. I was also a part of the robotics club and developed several projects on IoT including a Sound Pollution Monitoring System. During my third year, I was an internship trainee at Ardent Computech where I developed a machine learning project on Image Processing and Analysis. 
+My academic interests include financial modelling, marketing, data analysis.
 
 Here are some of the projects I have made. You can check more of them on my [Github Page!](https://github.com/AyanRoy22)
 
