@@ -2,7 +2,7 @@
 
 Hello! My name is Ayan Roy. I am a data science enthusiast from India. I graduated in electronics and communication engineering and am currently pursuing my postgraduate diploma in data science from Praxis Business School. During my college days, I was part of my institute's entrepreneurship and development cell and robotics club.  
 
-Here are some of the projects I have made
+Here are some of the projects I have made. You can check more of them on my [Github Page!](https://github.com/AyanRoy22)
 
 ## 1. Room Occupancy Detection [Repo Link](https://github.com/AyanRoy22/Room_Occupancy_Detection)
 This project involves analyzing sensor data from various sensors placed in a room. The objective is to develop a machine-learning model that can classify whether the room is currently occupied or unoccupied based on the sensor readings. 
