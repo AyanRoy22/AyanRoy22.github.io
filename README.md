@@ -1,7 +1,15 @@
 # Portfolio
 
-Hello! My name is Ayan Roy. I am a data science enthusiast from India. I graduated in electronics and communication engineering and am currently pursuing my postgraduate diploma in data science from Praxis Business School. During college, I was part of my institute's entrepreneurship and development cell where I got to interact with several business and industry leaders, which helped build my business acumen. I was also a part of the robotics club and was involved in various events and competitions. During my third year, I was an internship trainee at Ardent Computech where I developed a machine learning project on [Image Processing and Analysis](https://github.com/AyanRoy22/Image-Analysis-and-Colour-Identification). For my final year project me and my group developed a Sound Pollution Monitoring System using IoT sensors and the Arduino platform. <br>
-My academic interests include machine learning, artificial intelligence, IoT, web development, product development, market research and data analysis.
+Hello! My name is Ayan Roy. I am a data science enthusiast from India. I graduated in electronics and communication engineering and am currently pursuing my postgraduate diploma in data science from Praxis Business School. During college, I was part of my institute's entrepreneurship and development cell where I got to interact with several business and industry leaders, which helped build my business acumen. I was also a part of the robotics club and was involved in various events and competitions. <br>
+During my third year, I was an internship trainee at Ardent Computech where I developed a machine learning project on [Image Processing and Analysis](https://github.com/AyanRoy22/Image-Analysis-and-Colour-Identification). <br>
+For my final year project me and my group developed a Sound Pollution Monitoring System using IoT sensors and the Arduino platform. <br>
+My academic interests include: 
+- machine learning
+- artificial intelligence
+- IoT
+- web development
+- product development
+- market research and analysis.
 
 Here are some of the Machine learning projects I have made. You can check more of them on my [Github Page!](https://github.com/AyanRoy22)
 
